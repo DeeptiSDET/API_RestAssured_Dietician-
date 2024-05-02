@@ -1,0 +1,1 @@
+{"uuid":"e4ef3bf0-e90e-4397-92fb-1eaa1c28672a","name":"Scenario Outline: Check if user able to retrieve all Morbidities with API End point","children":["cdae3eff-c6bc-4dcd-be50-496cda2c7669"],"befores":[],"afters":[],"start":1700606443728,"stop":1700606445584}

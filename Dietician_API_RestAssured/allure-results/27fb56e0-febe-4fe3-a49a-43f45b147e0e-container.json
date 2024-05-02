@@ -1,0 +1,1 @@
+{"uuid":"27fb56e0-febe-4fe3-a49a-43f45b147e0e","name":"Scenario Outline: Check if user is able to retrieve patient morbidity details with valid patientid for user patient","children":["1c1fbfc5-8076-46e9-9ba8-f55edd51a3f4"],"befores":[],"afters":[],"start":1700605613862,"stop":1700605613882}

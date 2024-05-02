@@ -1,0 +1,33 @@
+{
+      "type": "object",
+      "properties": {
+        "fileId": {
+          "type": "string"
+        },
+        "fileName": {
+          "type": "string"
+        },
+        "uploadDate": {
+          "type": "string"
+        },
+        "morbidConditions": {
+          "type": "object",
+          "properties": {
+            "T4": {
+              "type": "string"
+            },
+            "TSH": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "T4",
+            "TSH"
+          ]
+        },
+        "morbidConditionStr": {
+          "type": "string"
+        }
+      }
+     
+    }

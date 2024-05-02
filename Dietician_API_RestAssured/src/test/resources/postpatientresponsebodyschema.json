@@ -1,0 +1,102 @@
+{
+
+  "type": "object",
+
+   "type": "object",
+
+  "properties": {
+    "patientId": {
+      "type": "integer"
+    },
+    "FirstName": {
+      "type": "string"
+    },
+    "LastName": {
+      "type": "string"
+    },
+    "ContactNumber": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "Allergy": {
+      "type": "string"
+    },
+    "FoodCategory": {
+      "type": "string"
+    },
+    "FileMorbidity": {
+      "type": "object",
+      "properties": {
+
+        "T4": {
+          "type": "string"
+        },
+        "TSH": {
+          "type": "string"
+        },
+        "T3": {
+          "type": "string"
+        }
+      },
+      "required": ["T4", "TSH", "T3"]
+
+        "655673b9d50d7811f3030cd8": {
+          "type": "object",
+          "properties": {
+            "T4": {
+              "type": "string"
+            },
+            "TSH": {
+              "type": "string"
+            },
+            "T3": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "T4",
+            "TSH",
+            "T3"
+          ]
+        }
+      },
+      "required": [
+        "655673b9d50d7811f3030cd8"
+      ]
+
+    },
+    "FileMorbidityCondition": {
+      "type": "object",
+      "properties": {
+
+        "condition": {
+          "type": "string"
+        }
+      },
+      "required": ["condition"]
+
+        "655673b9d50d7811f3030cd8": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "655673b9d50d7811f3030cd8"
+      ]
+
+    },
+    "DateOfBirth": {
+      "type": "string"
+    },
+    "DieticianId": {
+      "type": "integer"
+    }
+
+  }
+  
+}
+
+ 
+}
+>>>>>>> origin/Dhivyabranch

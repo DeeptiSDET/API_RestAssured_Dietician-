@@ -1,0 +1,1 @@
+{"uuid":"c677db30-1de9-4aa3-bffd-f5b1a20c8d1b","name":"Scenario Outline: Check if user is able to delete patient using patientid","children":["c8d7ff17-9b3c-44a5-acec-e8e2d9f4417f"],"befores":[],"afters":[],"start":1700590238920,"stop":1700590239324}

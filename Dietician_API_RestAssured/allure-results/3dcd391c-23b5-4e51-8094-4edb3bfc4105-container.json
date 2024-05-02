@@ -1,0 +1,1 @@
+{"uuid":"3dcd391c-23b5-4e51-8094-4edb3bfc4105","name":"Scenario Outline: Check if user is able to retrieve patient file report using fileId for user patient","children":["060eec36-802f-49bd-af1b-ad138e93c69a"],"befores":[],"afters":[],"start":1700598365108,"stop":1700598365217}

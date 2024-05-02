@@ -1,0 +1,1 @@
+{"uuid":"30270624-43d3-4ef8-8c16-021e97bbd2bb","name":"Scenario Outline: Check if user able to update a Patient with valid endpoint and request body (non existing values)","children":["e23b3f0a-817d-4569-8042-913cc7bb23e3"],"befores":[],"afters":[],"start":1700605609296,"stop":1700605609859}
